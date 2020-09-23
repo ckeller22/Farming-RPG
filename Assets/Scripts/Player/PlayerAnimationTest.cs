@@ -22,10 +22,10 @@ public class PlayerAnimationTest : MonoBehaviour
     public bool isPickingRight;
     public bool isPickingLeft;
     public bool isPickingUp;
-    public  bool isPickingDown;
-    public  bool isSwingingToolRight;
+    public bool isPickingDown;
+    public bool isSwingingToolRight;
     public bool isSwingingToolLeft;
-    public  bool isSwingingToolUp;
+    public bool isSwingingToolUp;
     public bool isSwingingToolDown;
     public bool idleRight;
     public bool idleLeft;
