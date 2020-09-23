@@ -4,3 +4,10 @@
     watering
 }
 
+public enum Directions
+{
+    right,
+    left,
+    down,
+    up
+}
