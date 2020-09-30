@@ -11,3 +11,19 @@ public enum Directions
     down,
     up
 }
+
+public enum ItemType
+{
+    Seed,
+    Commodity,
+    WateringTool,
+    HoeingTool,
+    ChoppingTool,
+    BreakingTool,
+    ReapingTool,
+    CollectingTool,
+    ReapableScenery,
+    furniture,
+    none,
+    count
+}
